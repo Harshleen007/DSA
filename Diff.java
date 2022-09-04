@@ -4,7 +4,7 @@ class Diff{
 	{
 		int a=5;
 		int b=5;
-		int diff=a+b;
-		System.out.println("The difference of 5+5 is"+diff);
+		int diff=a-b;
+		System.out.println("The difference of 5-5 is"+diff);
 	}
 }
