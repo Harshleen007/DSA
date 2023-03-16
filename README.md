@@ -1,2 +1,2 @@
 # DSA
-# A repository for Java DSA
+A repository for Java DSA
